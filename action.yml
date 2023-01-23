@@ -1,5 +1,4 @@
 name: 'log-to-file2'
-description: 'Write logs to file'
 author: 'dwarak91'
 branding:
   icon: file-text
