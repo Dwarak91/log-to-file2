@@ -1,4 +1,5 @@
 name: 'log-to-file2'
+description: 
 author: 'dwarak91'
 inputs:
   filename:
